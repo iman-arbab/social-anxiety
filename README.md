@@ -27,4 +27,4 @@ The project outcomes are presented in two main formats:
 2. **Story Report (PDF):** A narrative, visually engaging report that translates our statistical findings and discovered patterns into a non-technical story accessible to a general audience.
 
 ---
-*This project was conducted as part of a Data Analysis Bootcamp.*
+*This project was completed as part of Quera's Data Analysis Bootcamp.*
